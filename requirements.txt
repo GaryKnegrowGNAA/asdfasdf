@@ -1,0 +1,2 @@
+-e git+https://github.com/dolfies/discord.py-self#egg=discord.py-self[voice]
+Flask==2.2.5
